@@ -1,0 +1,3 @@
+ Hazle ingeneria inversa a las clases GUI del altar.
+ Añade almacenamiento funcional de experiencia al bloque.
+ Añade al modelo 3D del altar lo de que su maya es modificada según el nivel disponible de experiencia.

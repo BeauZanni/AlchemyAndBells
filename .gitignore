@@ -1,0 +1,10 @@
+bin/
+build/
+run/
+*.launch
+.settings/
+.metadata
+.classpath
+.project
+.gradle/
+eclipse/

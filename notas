@@ -1,0 +1,7 @@
+ Las modelos de bloques importados no funcionan sin este prefijo al json: alchemyandbells:block/
+ 
+ Para hacer los VoxelShapes rápidamente puedes sólo copias los from y to desde los json de los modelos.
+ 
+ Uso líneas de separación sólo entre bloques distintos dentro del mismo nivel.
+ 
+ Los slots miden 16px. No olvides descontar el píxel cero. Además el marco de 1px es sólo decorativo.
