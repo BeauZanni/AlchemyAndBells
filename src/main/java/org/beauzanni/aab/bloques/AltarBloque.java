@@ -10,9 +10,7 @@ import net.minecraft.util.Hand;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.block.material.Material;
-
 import org.beauzanni.aab.entidades.AltarBloqueEntidad;
-
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
